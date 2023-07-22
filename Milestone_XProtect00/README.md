@@ -11,9 +11,9 @@
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect00/issues">Report Bug</a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/Milestone_XProtect00/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect00/pulls">Request Feature</a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/Milestone_XProtect00/pulls">Request Feature</a>
   </p>
 </div>
 
