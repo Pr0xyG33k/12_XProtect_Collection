@@ -1,11 +1,11 @@
 <!--   my-icons -->
 <p align="center">
 </a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k"><img src="https://img.shields.io/badge/status-writing-yellowgreen.svg?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Milestone_XProtect02?style=for-the-badge">
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Milestone_XProtect02?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Milestone_XProtect02.svg?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/Milestone_XProtect02.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/Milestone_XProtect02"><img src="https://img.shields.io/badge/status-writing-yellowgreen.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/Milestone_XProtect02/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Milestone_XProtect02?style=for-the-badge">
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/Milestone_XProtect02/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Milestone_XProtect02?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/Milestone_XProtect02/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Milestone_XProtect02.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/Milestone_XProtect02/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/Milestone_XProtect02.svg?style=for-the-badge"></a>
 </p>
 
 <!-- PROJECT LOGO -->
