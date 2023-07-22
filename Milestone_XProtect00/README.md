@@ -1,19 +1,19 @@
 <!--   my-icons -->
 <p align="center">
 </a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k"><img src="https://img.shields.io/badge/status-writing-yellowgreen.svg?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Milestone_XProtect00?style=for-the-badge">
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Milestone_XProtect00?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Milestone_XProtect00.svg?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Pr0xyG33k/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/Milestone_XProtect00.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/"><img src="https://img.shields.io/badge/status-writing-yellowgreen.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Milestone_XProtect?style=for-the-badge">
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Milestone_XProtect?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Milestone_XProtect.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/Milestone_XProtect.svg?style=for-the-badge"></a>
 </p>
 
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/Milestone_XProtect00/issues">Report Bug</a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/Milestone_XProtect00/pulls">Request Feature</a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/pulls">Request Feature</a>
   </p>
 </div>
 
