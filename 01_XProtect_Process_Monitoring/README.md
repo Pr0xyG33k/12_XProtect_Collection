@@ -81,7 +81,7 @@ To run this script on your server, make sure you have the following installed:
     ```py
     # Clone the repository
     git clone https://github.com/Pr0xyG33k/01_XProtect_Process_Monitoring.git
-    cd XProtect_Milestone00/main
+    cd 01_XProtect_Process_Monitoring/main
     ```
 3. **Install dependencies :**
     ```py
