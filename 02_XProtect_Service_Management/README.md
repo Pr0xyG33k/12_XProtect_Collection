@@ -19,7 +19,7 @@
 
 <!--   my-ticker -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&height=100&lines=Welcome+to+my+Project+Milestone_XProtect01+!" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Service%20Management&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -35,21 +35,17 @@
 <!-- ABOUT -->
 <h2>about</h2>
 <div align="center">
- <br>
- 
- <br>
-</div>
-<div align="center">
-  <br>
-  <img src="tmp/Milestone_logo.png">
-   <h1>
-   Restart all service.<br />
-                XProtect Milestone.
-  </h1>
-  <br><br>
 </div>
 
-> Milestone_XProtect01.ps1 This PowerShell script iterates through, specified list of services and attempts to start any services that are stopped of the Milestone server !
+> [!NOTE]  
+> `Milestone_XProtect01.ps1` is a PowerShell script designed to iterate through a specified list of services on the Milestone server and start any services that are stopped. This helps ensure that critical services are running for the proper functioning of the system.
+
+> [!IMPORTANT]  
+> Before running the script, make sure you have administrative privileges and the necessary permissions to start services on the Milestone server. This script will attempt to start services that are stopped, so ensure that the list of services is correctly configured.
+
+> [!WARNING]  
+> Be cautious when modifying the list of services or deploying this script in a production environment. Incorrect configurations could lead to attempts to start services that should remain stopped or may disrupt system operations. Always test in a controlled environment before deployment.
+
 
 <!-- REQUIREMENTS -->
 <h2>requirements</h2>
