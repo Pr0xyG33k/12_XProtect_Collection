@@ -81,12 +81,12 @@ To run this script on your server, make sure you have the following PowerShell m
 2. **Run the repository :**
     ```powershell
     # Clone the repository
-    git clone https://github.com/Pr0xyG33k/XProtect_Milestone01.git
-    cd XProtect_Milestone01/main
+    git clone https://github.com/Pr0xyG33k/02_XProtect_Service_Management.git
+    cd 02_XProtect_Service_Management/main
     ```
     
 3. **Run :** 
     ```powershell
     # Run the script following the repository's documentation
-    .\Milestone_XProtect01.ps1
+    .\XProtect_Service_Management.ps1
     ```
