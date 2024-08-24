@@ -27,7 +27,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about">about</a></li>
-    <li><a href="#requirements">requirements</a></li>
     <li><a href="#usage">usage</a></li>
   </ol>
 </details>
@@ -38,30 +37,13 @@
 </div>
 
 > [!NOTE]  
-> `Milestone_XProtect01.ps1` is a PowerShell script designed to iterate through a specified list of services on the Milestone server and start any services that are stopped. This helps ensure that critical services are running for the proper functioning of the system.
+> The script operates continuously in the background, monitoring the specified services. It logs each attempt to start the services and tracks their statuses. Ensure that the list of services is accurate and reflects the critical components of your Milestone system to avoid unnecessary service restarts.
 
 > [!IMPORTANT]  
 > Before running the script, make sure you have administrative privileges and the necessary permissions to start services on the Milestone server. This script will attempt to start services that are stopped, so ensure that the list of services is correctly configured.
 
 > [!WARNING]  
 > Be cautious when modifying the list of services or deploying this script in a production environment. Incorrect configurations could lead to attempts to start services that should remain stopped or may disrupt system operations. Always test in a controlled environment before deployment.
-
-<!-- REQUIREMENTS -->
-<h2>requirements</h2>
-<div align="center">
-</div>
-<div align="center">
-</div>
-
-<!-- Necessary installations -->
-To run this script on your server, make sure you have the following installed:
-
-| Name     | A short summary                                                  | Install   | Downloads |
-| -------- | ---------------------------------------------------------------- | --------- | --------- |
-| math     | Provides access to mathematical functions like trigonometric functions, logarithms, and constants such as pi and e.        | [![Python](https://img.shields.io/pypi/v/python-math?color=blue&label=python)](https://pypi.org/project/python-math/) | [![Python](https://pepy.tech/badge/python-math)](https://pypi.org/project/python-math/#files) |
-| time     | Supplies functions for working with time and dates, including time formatting, sleep intervals, and time measurement.    | [![Python](https://img.shields.io/pypi/v/TIME-python?color=blue&label=python)](https://pypi.org/project/TIME-python/) | [![Python](https://pepy.tech/badge/TIME-python)](https://pypi.org/project/TIME-python/#files) |
-| psutil   | Offers an interface for retrieving system and process information such as CPU, memory, and disk usage. It also provides capabilities for managing system processes. | [![Python](https://img.shields.io/pypi/v/psutil?color=blue&label=python)](https://pypi.org/project/psutil/) | [![Python](https://pepy.tech/badge/psutil)](https://pypi.org/project/psutil/#files) |
-
 
 <!-- USAGE -->
 <h2>usage</h2>
@@ -71,17 +53,15 @@ To run this script on your server, make sure you have the following installed:
 </div>
 <div style="border-radius: 5px; background-color: #f0f0f0; padding: 10px;">
 
-Clone the repository :
-```powershell
-git clone https://github.com/Pr0xyG33k/XProtect_Milestone01.git
-```
-
-Navigate to the project directory :
-```python
-cd XProtect_Milestone01/main
-```
-
-Execute the script :
-```powershell
-.\Milestone_XProtect01.ps1
-```
+1. **Run the repository :**
+    ```powershell
+    # Clone the repository
+    git clone https://github.com/Pr0xyG33k/XProtect_Milestone01.git
+    cd XProtect_Milestone01/main
+    ```
+    
+2. **Run :** 
+    ```powershell
+    # Run the script following the repository's documentation
+    .\Milestone_XProtect01.ps1
+    ```
