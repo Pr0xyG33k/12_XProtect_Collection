@@ -34,7 +34,8 @@
 
 <!-- ABOUT -->
 <h2>about</h2>
-<div align="center">
+<div>
+    The 12_XProtect_Collection includes a variety of scripts for Milestone XProtect, aimed at improving functionality, automating tasks, and integrating with other systems.
 </div>
 <div align="center">
 </div>
