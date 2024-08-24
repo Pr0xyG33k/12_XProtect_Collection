@@ -58,9 +58,9 @@ To run this script on your server, make sure you have the following installed:
 
 | Name     | A short summary                                                  | Install   | Downloads |
 | -------- | ---------------------------------------------------------------- | --------- | --------- |
-| math     | Provides mathematical functions for numeric calculations        | [![Python](https://img.shields.io/pypi/v/python-math?color=blue&label=python)](https://pypi.org/project/python-math/) | [![Python](https://pepy.tech/badge/python-math)](https://pypi.org/project/python-math/#files) |
-| time     | Provides time-related functions for handling dates and times    | [![Python](https://img.shields.io/pypi/v/TIME-python?color=blue&label=python)](https://pypi.org/project/TIME-python/) | [![Python](https://pepy.tech/badge/TIME-python)](https://pypi.org/project/TIME-python/#files) |
-| psutil   | Provides an interface for retrieving system and process information | [![Python](https://img.shields.io/pypi/v/psutil?color=blue&label=python)](https://pypi.org/project/psutil/) | [![Python](https://pepy.tech/badge/psutil)](https://pypi.org/project/psutil/#files) |
+| math     | Provides access to mathematical functions like trigonometric functions, logarithms, and constants such as pi and e.        | [![Python](https://img.shields.io/pypi/v/python-math?color=blue&label=python)](https://pypi.org/project/python-math/) | [![Python](https://pepy.tech/badge/python-math)](https://pypi.org/project/python-math/#files) |
+| time     | Supplies functions for working with time and dates, including time formatting, sleep intervals, and time measurement.    | [![Python](https://img.shields.io/pypi/v/TIME-python?color=blue&label=python)](https://pypi.org/project/TIME-python/) | [![Python](https://pepy.tech/badge/TIME-python)](https://pypi.org/project/TIME-python/#files) |
+| psutil   | Offers an interface for retrieving system and process information such as CPU, memory, and disk usage. It also provides capabilities for managing system processes. | [![Python](https://img.shields.io/pypi/v/psutil?color=blue&label=python)](https://pypi.org/project/psutil/) | [![Python](https://pepy.tech/badge/psutil)](https://pypi.org/project/psutil/#files) |
 
 <!-- USAGE -->
 <h2>usage</h2>
