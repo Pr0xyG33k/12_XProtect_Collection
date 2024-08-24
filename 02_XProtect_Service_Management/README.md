@@ -1,19 +1,19 @@
 <!--   my-icons -->
 <p align="center">
 </a>
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/"><img src="https://img.shields.io/badge/status-update-greengreen.svg?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Milestone_XProtect?style=for-the-badge">
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Milestone_XProtect?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Milestone_XProtect.svg?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/Milestone_XProtect.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management"><img src="https://img.shields.io/badge/status-update-greengreen.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management?style=for-the-badge">
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management.svg?style=for-the-badge"></a>
 </p>
 
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/issues">Report Bug</a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/pulls">Request Feature</a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/02_XProtect_Service_Management/pulls">Request Feature</a>
   </p>
 </div>
 
