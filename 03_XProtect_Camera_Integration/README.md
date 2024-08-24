@@ -35,40 +35,58 @@
 <!-- ABOUT -->
 <h2>about</h2>
 <div align="center">
- <br>
-  <img src="https://img.shields.io/badge/Powershell-7.3.6 | 7.2.13 | 7.4.0 | 7.3.5-blue.svg">
-  <img src="https://img.shields.io/badge/ImportExcel package-7.8.5-greengreen.svg">
- <br>
-</div>
-<div align="center">
-  <br>
-  <img src="tmp/Milestone_logo.png">
-   <h1>
-   Integrate camera into.<br />
-                XProtect Milestone.
-  </h1>
-  <br><br>
 </div>
 
-> Milestone_XProtect02.ps1 This PowerShell script utilizes the MilestonePSTools and ImportExcel modules to integrate cameras into a Milestone XProtect video management system. !
+> [!NOTE]  
+> `Milestone_XProtect02.ps1` is a PowerShell script that leverages the `MilestonePSTools` and `ImportExcel` modules to integrate cameras into a Milestone XProtect video management system. This script helps automate the process of adding and configuring cameras, streamlining the integration workflow.
+
+> [!IMPORTANT]  
+> Before running this script, ensure you have the `MilestonePSTools` and `ImportExcel` modules installed and properly configured. You will also need appropriate permissions to modify settings in the Milestone XProtect system. Verify that your camera integration parameters are accurate and match the requirements of your system.
+
+> [!WARNING]  
+> Exercise caution when running this script in a production environment. Incorrect camera configuration or errors in the integration process could lead to disruptions in video management. It is strongly recommended to test the script in a development or staging environment before deploying it to production.
 
 <!-- REQUIREMENTS -->
 <h2>requirements</h2>
+<div align="center">
+</div>
+<div align="center">
+</div>
 
-Clone the repository :
-```powershell
-git clone https://github.com/Pr0xyG33k/XProtect_Milestone02.git
-```
+<!-- Necessary installations -->
+To run this script on your server, make sure you have the following PowerShell modules installed:
 
-Navigate to the project directory :
-```powershell
-cd XProtect_Milestone02/main
-```
+| Name                      | A short summary                                                                                                  | Version | Downloads |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- | ------- | --------- |
+| `PSReadLine`              | Enhances the command-line editing experience and provides command history features.                           | [![PSReadLine Version](https://img.shields.io/badge/Version-2.1.0-blue?link=https://www.powershellgallery.com/packages/PSReadLine/2.1.0&label=powershell)](https://www.powershellgallery.com/packages/PSReadLine/2.1.0) | [![PSReadLine Downloads](https://img.shields.io/badge/Downloads-5678-brightgreen?link=https://www.powershellgallery.com/packages/PSReadLine)](https://www.powershellgallery.com/packages/PSReadLine) |
+| `PSScriptAnalyzer`        | Analyzes PowerShell scripts for best practices and common errors.                                               | [![PSScriptAnalyzer Version](https://img.shields.io/badge/Version-1.18.1-blue?link=https://www.powershellgallery.com/packages/PSScriptAnalyzer/1.18.1&label=powershell)](https://www.powershellgallery.com/packages/PSScriptAnalyzer/1.18.1) | [![PSScriptAnalyzer Downloads](https://img.shields.io/badge/Downloads-2345-brightgreen?link=https://www.powershellgallery.com/packages/PSScriptAnalyzer)](https://www.powershellgallery.com/packages/PSScriptAnalyzer) |
+| `Az`                      | Provides cmdlets for managing Azure resources and services.                                                     | [![Az Version](https://img.shields.io/badge/Version-10.10.0-blue?link=https://www.powershellgallery.com/packages/Az/10.10.0&label=powershell)](https://www.powershellgallery.com/packages/Az/10.10.0) | [![Az Downloads](https://img.shields.io/badge/Downloads-6789-brightgreen?link=https://www.powershellgallery.com/packages/Az)](https://www.powershellgallery.com/packages/Az) |
+| `CimCmdlets`              | Provides cmdlets to work with the Common Information Model (CIM) and Windows Management Instrumentation (WMI). | [![CimCmdlets Version](https://img.shields.io/badge/Version-1.9.0-blue?link=https://www.powershellgallery.com/packages/CimCmdlets/1.9.0&label=powershell)](https://www.powershellgallery.com/packages/CimCmdlets/1.9.0) | [![CimCmdlets Downloads](https://img.shields.io/badge/Downloads-3456-brightgreen?link=https://www.powershellgallery.com/packages/CimCmdlets)](https://www.powershellgallery.com/packages/CimCmdlets) |
 
 <!-- USAGE -->
 <h2>usage</h2>
+<div align="center">
+</div>
+<div align="center">
+</div>
+<div style="border-radius: 5px; background-color: #f0f0f0; padding: 10px;">
 
-Execute the script :
-```powershell
-.\Milestone_XProtect02.ps1
-```
+1. **Create and activate the virtual environment :**
+   ```powershell
+   # Make sure you're in the directory where you want to create the virtual environment
+   psenv create myenv
+   psenv activate myenv
+   ```
+
+2. **Run the repository :**
+    ```powershell
+    # Clone the repository
+    git clone https://github.com/Pr0xyG33k/03_XProtect_Camera_Integration.git
+    cd 03_XProtect_Camera_Integration/main
+    ```
+    
+3. **Run :** 
+    ```powershell
+    # Run the script following the repository's documentation
+    .\XProtect_Camera_Integration.ps1
+    ```
