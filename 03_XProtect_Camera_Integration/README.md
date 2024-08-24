@@ -58,7 +58,7 @@ To run this script on your server, make sure you have the following PowerShell m
 
 | Name                  | Description                                             | Install                                                                 | Downloads |
 |-----------------------|---------------------------------------------------------|-------------------------------------------------------------------------|-----------|
-| `ImportExcel`         | Facilitates import and export of Excel files in PowerShell. | [![ImportExcel Version](https://img.shields.io/badge/Version-7.0.4-blue?link=https://www.powershellgallery.com/packages/ImportExcel/7.0.4&label=powershell)](https://www.powershellgallery.com/packages/ImportExcel/7.0.4) | [![ImportExcel Downloads](https://img.shields.io/badge/Downloads-12345-brightgreen?link=https://www.powershellgallery.com/packages/ImportExcel)](https://www.powershellgallery.com/packages/ImportExcel) |
+| `ImportExcel`         | This module simplifies the import and export of Excel files in PowerShell. It allows users to easily read data from Excel files and convert it into PowerShell objects. | [![ImportExcel Version](https://img.shields.io/badge/Version-7.0.4-blue?link=https://www.powershellgallery.com/packages/ImportExcel/7.0.4&label=powershell)](https://www.powershellgallery.com/packages/ImportExcel/7.0.4) | [![ImportExcel Downloads](https://img.shields.io/badge/Downloads-12345-brightgreen?link=https://www.powershellgallery.com/packages/ImportExcel)](https://www.powershellgallery.com/packages/ImportExcel) |
 
 <!-- USAGE -->
 <h2>usage</h2>
