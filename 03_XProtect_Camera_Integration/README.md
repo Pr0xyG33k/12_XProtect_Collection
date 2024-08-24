@@ -1,25 +1,25 @@
 <!--   my-icons -->
 <p align="center">
 </a>
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/"><img src="https://img.shields.io/badge/status-writing-yellowgreen.svg?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Milestone_XProtect?style=for-the-badge">
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Milestone_XProtect?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Milestone_XProtect.svg?style=for-the-badge"></a>
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/Milestone_XProtect.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/03_XProtect_Camera_Integration"><img src="https://img.shields.io/badge/status-update-greengreen.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/12_XProtect_Collection?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/12_XProtect_Collection?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/12_XProtect_Collection.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/12_XProtect_Collection.svg?style=for-the-badge"></a>
 </p>
 
 <!-- PROJECT LOGO -->
   <p align="center">
     <br />
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/issues">Report Bug</a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/pulls">Request Feature</a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/pulls">Request Feature</a>
   </p>
 </div>
 
 <!--   my-ticker -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&height=100&lines=Welcome+to+my+Project+Milestone_XProtect02+!" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Camera%20Integration&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </p>
 
 <!-- TABLE OF CONTENTS -->
