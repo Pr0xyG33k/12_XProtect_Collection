@@ -53,14 +53,21 @@
 </div>
 <div style="border-radius: 5px; background-color: #f0f0f0; padding: 10px;">
 
-1. **Run the repository :**
+1. **Create and activate the virtual environment :**
+   ```powershell
+   # Make sure you're in the directory where you want to create the virtual environment
+   psenv create myenv
+   psenv activate myenv
+   ```
+
+2. **Run the repository :**
     ```powershell
     # Clone the repository
     git clone https://github.com/Pr0xyG33k/XProtect_Milestone01.git
     cd XProtect_Milestone01/main
     ```
     
-2. **Run :** 
+3. **Run :** 
     ```powershell
     # Run the script following the repository's documentation
     .\Milestone_XProtect01.ps1
