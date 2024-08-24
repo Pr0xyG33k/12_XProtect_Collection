@@ -6,6 +6,7 @@
     <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/12_XProtect_Collection?style=for-the-badge"></a>
     <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/12_XProtect_Collection.svg?style=for-the-badge"></a>
     <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/issues"><img src="https://img.shields.io/github/issues/Pr0xyG33k/12_XProtect_Collection.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/12_XProtect_Collection/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Pr0xyG33k/12_XProtect_Collection.svg?style=for-the-badge"></a>
 </p>
 
 <!-- PROJECT LOGO -->
