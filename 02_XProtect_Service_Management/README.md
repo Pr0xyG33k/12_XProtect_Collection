@@ -45,6 +45,23 @@
 > [!WARNING]  
 > Be cautious when modifying the list of services or deploying this script in a production environment. Incorrect configurations could lead to attempts to start services that should remain stopped or may disrupt system operations. Always test in a controlled environment before deployment.
 
+<!-- REQUIREMENTS -->
+<h2>requirements</h2>
+<div align="center">
+</div>
+<div align="center">
+</div>
+
+<!-- Necessary installations -->
+To run this script on your server, make sure you have the following PowerShell modules installed:
+
+| Name                      | A short summary                                                                                                  | Version | Downloads |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- | ------- | --------- |
+| `PSReadLine`              | Enhances the command-line editing experience and provides command history features.                           | [![PSReadLine Version](https://img.shields.io/badge/Version-2.1.0-blue?link=https://www.powershellgallery.com/packages/PSReadLine/2.1.0&label=powershell)](https://www.powershellgallery.com/packages/PSReadLine/2.1.0) | [![PSReadLine Downloads](https://img.shields.io/badge/Downloads-5678-brightgreen?link=https://www.powershellgallery.com/packages/PSReadLine)](https://www.powershellgallery.com/packages/PSReadLine) |
+| `PSScriptAnalyzer`        | Analyzes PowerShell scripts for best practices and common errors.                                               | [![PSScriptAnalyzer Version](https://img.shields.io/badge/Version-1.18.1-blue?link=https://www.powershellgallery.com/packages/PSScriptAnalyzer/1.18.1&label=powershell)](https://www.powershellgallery.com/packages/PSScriptAnalyzer/1.18.1) | [![PSScriptAnalyzer Downloads](https://img.shields.io/badge/Downloads-2345-brightgreen?link=https://www.powershellgallery.com/packages/PSScriptAnalyzer)](https://www.powershellgallery.com/packages/PSScriptAnalyzer) |
+| `Az`                      | Provides cmdlets for managing Azure resources and services.                                                     | [![Az Version](https://img.shields.io/badge/Version-10.10.0-blue?link=https://www.powershellgallery.com/packages/Az/10.10.0&label=powershell)](https://www.powershellgallery.com/packages/Az/10.10.0) | [![Az Downloads](https://img.shields.io/badge/Downloads-6789-brightgreen?link=https://www.powershellgallery.com/packages/Az)](https://www.powershellgallery.com/packages/Az) |
+| `CimCmdlets`              | Provides cmdlets to work with the Common Information Model (CIM) and Windows Management Instrumentation (WMI). | [![CimCmdlets Version](https://img.shields.io/badge/Version-1.9.0-blue?link=https://www.powershellgallery.com/packages/CimCmdlets/1.9.0&label=powershell)](https://www.powershellgallery.com/packages/CimCmdlets/1.9.0) | [![CimCmdlets Downloads](https://img.shields.io/badge/Downloads-3456-brightgreen?link=https://www.powershellgallery.com/packages/CimCmdlets)](https://www.powershellgallery.com/packages/CimCmdlets) |
+
 <!-- USAGE -->
 <h2>usage</h2>
 <div align="center">
