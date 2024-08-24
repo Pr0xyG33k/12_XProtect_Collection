@@ -19,7 +19,7 @@
 
 <!--   my-ticker -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&height=100&lines=Welcome+to+my+Project+Milestone_XProtect+!" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord-Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -37,7 +37,4 @@
 <div align="center">
 </div>
 <div align="center">
-  <br>
-  <img src="tmp/Milestone_logo.png">
-  <br><br>
 </div>
