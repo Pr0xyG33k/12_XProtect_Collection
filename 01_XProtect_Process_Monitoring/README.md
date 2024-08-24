@@ -48,18 +48,19 @@
 
 <!-- REQUIREMENTS -->
 <h2>requirements</h2>
+<div align="center">
+</div>
+<div align="center">
+</div>
+
 <!-- Necessary installations -->
-To run this Discord bot on your server, make sure you have the following installed:
+To run this script on your server, make sure you have the following installed:
 
-| Name                   | A short summary                              | Install   | Downloads |
-| ---------------------- | -------------------------------------------- | --------- | --------- |
-| beautifulsoup4 | Parses HTML/XML for web scraping and data manipulation  | [![Python](https://img.shields.io/pypi/v/beautifulsoup4?color=blue&label=python)](https://pypi.org/project/beautifulsoup4/) | [![Python](https://pepy.tech/badge/beautifulsoup4)](https://pypi.org/project/beautifulsoup4/#files) |
-| discord | Tools for interacting with the Discord API to manage bots and integrations  | [![Python](https://img.shields.io/pypi/v/discord.py?color=blue&label=python)](https://pypi.org/project/discord.py/) | [![Python](https://pepy.tech/badge/discord.py)](https://pypi.org/project/discord.py/#files) |
-| openai | Access to OpenAI’s AI models for natural language processing and other tasks  | [![Python](https://img.shields.io/pypi/v/openai?color=blue&label=python)](https://pypi.org/project/openai/) | [![Python](https://pepy.tech/badge/openai)](https://pypi.org/project/openai/#files) |
-| dotenv  | Manages environment variables from .env files for secure configuration   | [![Python](https://img.shields.io/pypi/v/python-dotenv?color=blue&label=python)](https://pypi.org/project/python-dotenv/) | [![Python](https://pepy.tech/badge/python-dotenv)](https://pypi.org/project/python-dotenv/#files) |
-| requests   | Simplifies HTTP requests and interactions with web services   | [![Python](https://img.shields.io/pypi/v/requests?color=blue&label=python)](https://pypi.org/project/requests/) | [![Python](https://pepy.tech/badge/requests)](https://pypi.org/project/requests/#files) |
-| schedule   | Manages task scheduling for automated function execution   | [![Python](https://img.shields.io/pypi/v/schedule?color=blue&label=python)](https://pypi.org/project/schedule/) | [![Python](https://pepy.tech/badge/schedule)](https://pypi.org/project/schedule/#files) |
-
+| Name     | A short summary                                                  | Install   | Downloads |
+| -------- | ---------------------------------------------------------------- | --------- | --------- |
+| math     | Provides mathematical functions for numeric calculations        | [![Python](https://img.shields.io/pypi/v/python-math?color=blue&label=python)](https://pypi.org/project/python-math/) | [![Python](https://pepy.tech/badge/python-math)](https://pypi.org/project/python-math/#files) |
+| time     | Provides time-related functions for handling dates and times    | [![Python](https://img.shields.io/pypi/v/TIME-python?color=blue&label=python)](https://pypi.org/project/TIME-python/) | [![Python](https://pepy.tech/badge/TIME-python)](https://pypi.org/project/TIME-python/#files) |
+| psutil   | Provides an interface for retrieving system and process information | [![Python](https://img.shields.io/pypi/v/psutil?color=blue&label=python)](https://pypi.org/project/psutil/) | [![Python](https://pepy.tech/badge/psutil)](https://pypi.org/project/psutil/#files) |
 
 <!-- USAGE -->
 <h2>usage</h2>
