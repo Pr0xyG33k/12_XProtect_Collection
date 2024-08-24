@@ -1,7 +1,7 @@
 <!--   my-icons -->
 <p align="center">
 </a>
-    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/"><img src="https://img.shields.io/badge/status-writing-yellowgreen.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/"><img src="https://img.shields.io/badge/status-update-greengreen.svg?style=for-the-badge"></a>
     <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/graphs/contributors"><img src="https://img.shields.io/github/contributors/Pr0xyG33k/Milestone_XProtect?style=for-the-badge">
     <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/stargazers"><img src="https://img.shields.io/github/stars/Pr0xyG33k/Milestone_XProtect?style=for-the-badge"></a>
     <a href="https://github.com/Pr0xyG33k/Milestone_XProtect/network/members"><img src="https://img.shields.io/github/forks/Pr0xyG33k/Milestone_XProtect.svg?style=for-the-badge"></a>
